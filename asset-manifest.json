@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.600ab473.chunk.css",
-    "main.js": "/static/js/main.6c986cb1.chunk.js",
-    "main.js.map": "/static/js/main.6c986cb1.chunk.js.map",
+    "main.css": "/static/css/main.a9d651bd.chunk.css",
+    "main.js": "/static/js/main.4b8c14ea.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.440e9861.js",
-    "runtime-main.js.map": "/static/js/runtime-main.440e9861.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/css/2.0371faf3.chunk.css": "/static/css/2.0371faf3.chunk.css",
     "static/js/2.f74b2726.chunk.js": "/static/js/2.f74b2726.chunk.js",
-    "static/js/2.f74b2726.chunk.js.map": "/static/js/2.f74b2726.chunk.js.map",
     "static/js/3.ed415e5b.chunk.js": "/static/js/3.ed415e5b.chunk.js",
-    "static/js/3.ed415e5b.chunk.js.map": "/static/js/3.ed415e5b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.600ab473.chunk.css.map": "/static/css/main.600ab473.chunk.css.map",
     "static/js/2.f74b2726.chunk.js.LICENSE.txt": "/static/js/2.f74b2726.chunk.js.LICENSE.txt",
     "static/media/favicon.e346a70b.ico": "/static/media/favicon.e346a70b.ico",
     "static/media/pancakeswap-cake-logo.e1d4dec3.png": "/static/media/pancakeswap-cake-logo.e1d4dec3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.440e9861.js",
-    "static/css/2.4c97ca4f.chunk.css",
+    "static/css/2.0371faf3.chunk.css",
     "static/js/2.f74b2726.chunk.js",
-    "static/css/main.600ab473.chunk.css",
-    "static/js/main.6c986cb1.chunk.js"
+    "static/css/main.a9d651bd.chunk.css",
+    "static/js/main.4b8c14ea.chunk.js"
   ]
 }
