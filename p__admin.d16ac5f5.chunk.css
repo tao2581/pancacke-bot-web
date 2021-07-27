@@ -1,0 +1,96 @@
+.appBody___1ER-_ {
+  margin: 0 auto;
+  max-width: 650px !important;
+}
+@media screen and (max-width: 768px) {
+  .appBody___1ER-_ {
+    padding: 15px;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo___2RV8v {
+    width: 45px;
+    height: 45px;
+    animation: App-logo-spin___2qE-m infinite 10s linear;
+  }
+}
+@keyframes App-logo-spin___2qE-m {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(30deg);
+  }
+}
+.startBtn___2ubaZ {
+  width: 100%;
+}
+.startBtnRed___3tnyT {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+.App-header___2URMK {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-link___1fo0W {
+  color: #61dafb;
+}
+.label-success___IqwP3 {
+  background-color: #5cb85c;
+}
+.printContent___28VM7 {
+  height: 350px;
+  overflow-y: auto;
+  background-color: #000;
+  color: #fff;
+  padding: 15px;
+  border-radius: 3px;
+  overflow-x: visible;
+}
+.printContent___28VM7 .span-green___2VHX6 {
+  color: lightgreen;
+}
+.printContent___28VM7 .span-green-revise___Z4SRc {
+  background-color: green;
+  color: #fff;
+}
+.printContent___28VM7 .span-yellow___J3yiy {
+  color: yellow;
+}
+.printContent___28VM7 span.red___3fKB5 {
+  background-color: salmon;
+}
+.printContent___28VM7 > .red___3fKB5 {
+  color: red;
+}
+.label___oWeuk {
+  display: inline;
+  padding: 0.2em 0.6em 0.3em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25em;
+}
+.form-group-sm___Kz2bn .form-control___rBtEQ {
+  height: 35px;
+  padding: 5px 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.form-group-sm___Kz2bn label {
+  padding-top: 6px;
+  font-size: 14px;
+}
+
